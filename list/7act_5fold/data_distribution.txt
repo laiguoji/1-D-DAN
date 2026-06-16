@@ -1,0 +1,41 @@
+original data 14924
+Type 2, # action: 1967
+Type 3, # action: 2049
+Type 4, # action: 1972
+Type 5, # action: 2075
+Type 1, # action: 2367
+Type 6, # action: 2429
+Type 0, # action: 2064
+# train: 11942, # val: 2981
+Type 2, # action: 1967
+Type 3, # action: 2049
+Type 4, # action: 1972
+Type 5, # action: 2075
+Type 1, # action: 2367
+Type 6, # action: 2429
+Type 0, # action: 2064
+# train: 11942, # val: 2981
+Type 2, # action: 1967
+Type 3, # action: 2049
+Type 4, # action: 1972
+Type 5, # action: 2075
+Type 1, # action: 2367
+Type 6, # action: 2429
+Type 0, # action: 2064
+# train: 11942, # val: 2981
+Type 2, # action: 1967
+Type 3, # action: 2049
+Type 4, # action: 1972
+Type 5, # action: 2075
+Type 1, # action: 2367
+Type 6, # action: 2429
+Type 0, # action: 2064
+# train: 11942, # val: 2981
+Type 2, # action: 1967
+Type 3, # action: 2049
+Type 4, # action: 1972
+Type 5, # action: 2075
+Type 1, # action: 2367
+Type 6, # action: 2429
+Type 0, # action: 2064
+# train: 11942, # val: 2981

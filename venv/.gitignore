@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Local config / secrets
+.env
+*.env
+
+# Training outputs / results
+results/
+keras_result/
+runs/
+logs/
+checkpoints/
+weights/
+output/
+outputs/
+
+# Datasets / generated data
+newGeoPose_300-1800and2300-4000_obj/
+
+# Model files
+*.pt
+*.pth
+*.pkl
+*.h5
+*.keras
+*.onnx
+*.ckpt
+*.pb
+
+# Large data files
+*.npy
+*.npz
+*.csv
+*.jsonl
+*.parquet
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
