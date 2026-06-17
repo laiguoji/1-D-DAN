@@ -4,6 +4,10 @@ This repository contains the PyTorch implementation for the paper **"Radar-Based
 
 The code implements a 1-D convolutional dense attention network for radar-based human activity recognition. The input radar signal is converted to a time-frequency representation with STFT and then classified into seven activity classes.
 
+## Keywords
+
+radar, human activity recognition, PyTorch, 1-D CNN, dense attention network, attention mechanism, STFT, time-frequency analysis
+
 ## Overview
 
 The repository includes:
